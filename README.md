@@ -52,8 +52,6 @@ while crafting simple frontend interfaces when needed.
         <img src="img/html_40x40.png" alt="HTML" width="50" height="50" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);">
         <div style="color: #00ff00; font-size: 12px; margin-top: 8px;">HTML</div>
       </td>
-    </tr>
-    <tr>
       <td style="text-align: center; padding: 15px;">
         <img src="img/css_40x40.png" alt="CSS" width="50" height="50" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);">
         <div style="color: #00ff00; font-size: 12px; margin-top: 8px;">CSS</div>
@@ -70,7 +68,7 @@ while crafting simple frontend interfaces when needed.
         <!-- Empty cell for alignment -->
       </td>
     </tr>
-  </table>
+    
 </div>
 
 </div>
