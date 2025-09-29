@@ -21,9 +21,9 @@ while crafting simple frontend interfaces when needed.
 
 ---
 
-<div align="center">
-
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 <!-- ASCII Art Tech Frame -->
 <pre style="color: #00ff00; background-color: #000000; padding: 20px; border-radius: 10px; font-family: 'Courier New', monospace;">
@@ -32,39 +32,41 @@ while crafting simple frontend interfaces when needed.
 └─────────────────────────────────────────────────────────────┘
 </pre>
 
-<!-- Icons in a grid layout -->
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; justify-items: center; margin: 20px 0;">
-  <div style="text-align: center;">
-    <img src="img/python_40x40.png" alt="Python" width="50" height="50" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);">
-    <div style="color: #00ff00; font-size: 12px; margin-top: 5px;">Python</div>
-  </div>
-  <div style="text-align: center;">
-    <img src="img/django_40x40.png" alt="Django" width="50" height="50" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);">
-    <div style="color: #00ff00; font-size: 12px; margin-top: 5px;">Django</div>
-  </div>
-  <div style="text-align: center;">
-    <img src="img/postgresql_40x40.png" alt="PostgreSQL" width="50" height="50" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);">
-    <div style="color: #00ff00; font-size: 12px; margin-top: 5px;">PostgreSQL</div>
-  </div>
-  <div style="text-align: center;">
-    <img src="img/html_40x40.png" alt="HTML" width="50" height="50" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);">
-    <div style="color: #00ff00; font-size: 12px; margin-top: 5px;">HTML</div>
-  </div>
-  <div style="text-align: center;">
-    <img src="img/css_40x40.png" alt="CSS" width="50" height="50" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);">
-    <div style="color: #00ff00; font-size: 12px; margin-top: 5px;">CSS</div>
-  </div>
-  <div style="text-align: center;">
-    <img src="img/js_40x40.png" alt="JavaScript" width="50" height="50" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);">
-    <div style="color: #00ff00; font-size: 12px; margin-top: 5px;">JavaScript</div>
-  </div>
-  <div style="text-align: center;">
-    <img src="img/git_40x40.png" alt="Git" width="50" height="50" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);">
-    <div style="color: #00ff00; font-size: 12px; margin-top: 5px;">Git</div>
+<!-- Icons in a proper grid -->
+<div style="display: inline-block; background: #000000; padding: 20px; border-radius: 10px; border: 1px solid #00ff00;">
+  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; justify-items: center;">
+    <div style="text-align: center;">
+      <img src="img/python_40x40.png" alt="Python" width="50" height="50" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);">
+      <div style="color: #00ff00; font-size: 12px; margin-top: 8px;">Python</div>
+    </div>
+    <div style="text-align: center;">
+      <img src="img/django_40x40.png" alt="Django" width="50" height="50" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);">
+      <div style="color: #00ff00; font-size: 12px; margin-top: 8px;">Django</div>
+    </div>
+    <div style="text-align: center;">
+      <img src="img/postgresql_40x40.png" alt="PostgreSQL" width="50" height="50" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);">
+      <div style="color: #00ff00; font-size: 12px; margin-top: 8px;">PostgreSQL</div>
+    </div>
+    <div style="text-align: center;">
+      <img src="img/html_40x40.png" alt="HTML" width="50" height="50" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);">
+      <div style="color: #00ff00; font-size: 12px; margin-top: 8px;">HTML</div>
+    </div>
+    <div style="text-align: center;">
+      <img src="img/css_40x40.png" alt="CSS" width="50" height="50" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);">
+      <div style="color: #00ff00; font-size: 12px; margin-top: 8px;">CSS</div>
+    </div>
+    <div style="text-align: center;">
+      <img src="img/js_40x40.png" alt="JavaScript" width="50" height="50" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);">
+      <div style="color: #00ff00; font-size: 12px; margin-top: 8px;">JavaScript</div>
+    </div>
+    <div style="text-align: center;">
+      <img src="img/git_40x40.png" alt="Git" width="50" height="50" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);">
+      <div style="color: #00ff00; font-size: 12px; margin-top: 8px;">Git</div>
+    </div>
   </div>
 </div>
 
-</div>
+
 
 ---
 
