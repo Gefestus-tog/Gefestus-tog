@@ -36,17 +36,4 @@ Building robust backend systems with Python and Django, while crafting simple fr
 **Our Strengths:** Python Development • Database Design • API Creation • Clean Frontends
 
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Gefest's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gefestus-tog&show_icons=true&theme=radical&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gefest-tog&layout=compact&theme=radical&hide=html,css)
-
-</div>
-
 ---
