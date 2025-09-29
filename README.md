@@ -21,38 +21,48 @@ while crafting simple frontend interfaces when needed.
 
 ---
 
-## 🛠️ Tech Stack
-
 <div align="center">
 
-<!-- ASCII Art Tech Icons -->
+## 🛠️ Tech Stack
+
+<!-- ASCII Art Tech Frame -->
 <pre style="color: #00ff00; background-color: #000000; padding: 20px; border-radius: 10px; font-family: 'Courier New', monospace;">
 ┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   ██████╗ ██╗   ██╗████████╗██╗  ██╗ ██████╗ ███╗   ██╗    │
-│   ██╔══██╗╚██╗ ██╔╝╚══██╔══╝██║  ██║██╔═══██╗████╗  ██║    │
-│   ██████╔╝ ╚████╔╝    ██║   ███████║██║   ██║██╔██╗ ██║    │
-│   ██╔═══╝   ╚██╔╝     ██║   ██╔══██║██║   ██║██║╚██╗██║    │
-│   ██║        ██║      ██║   ██║  ██║╚██████╔╝██║ ╚████║    │
-│   ╚═╝        ╚═╝      ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝    │
-│                                                             │
-│  ┌─────────┬───────────┬────────────┬────────┬──────────┐   │
-│  │  Python │   Django  │ PostgreSQL │  HTML  │    CSS   │   │
-│  ├─────────┼───────────┼────────────┼────────┼──────────┤   │
-│  │    JS   │    Git    │            │        │          │   │
-│  └─────────┴───────────┴────────────┴────────┴──────────┘   │
-│                                                             │
+│                    MY TECH STACK                           │
 └─────────────────────────────────────────────────────────────┘
 </pre>
 
-<!-- Original icons as fallback -->
-<img src="img/python_40x40.png" alt="Python" title="Python - Backend Development & Scripting" width="60" height="60" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);">
-<img src="img/django_40x40.png" alt="Django" title="Django - Web Framework & APIs" width="60" height="60" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);">
-<img src="img/postgresql_40x40.png" alt="PostgreSQL" title="PostgreSQL - Database Management" width="60" height="60" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);">
-<img src="img/html_40x40.png" alt="HTML" title="HTML - Frontend Structure" width="60" height="60" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);">
-<img src="img/css_40x40.png" alt="CSS" title="CSS - Styling & Layout" width="60" height="60" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);">
-<img src="img/js_40x40.png" alt="JavaScript" title="JavaScript - Frontend Interactivity" width="60" height="60" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);">
-<img src="img/git_40x40.png" alt="Git" title="Git - Version Control" width="60" height="60" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);">
+<!-- Icons in a grid layout -->
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; justify-items: center; margin: 20px 0;">
+  <div style="text-align: center;">
+    <img src="img/python_40x40.png" alt="Python" width="50" height="50" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);">
+    <div style="color: #00ff00; font-size: 12px; margin-top: 5px;">Python</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="img/django_40x40.png" alt="Django" width="50" height="50" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);">
+    <div style="color: #00ff00; font-size: 12px; margin-top: 5px;">Django</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="img/postgresql_40x40.png" alt="PostgreSQL" width="50" height="50" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);">
+    <div style="color: #00ff00; font-size: 12px; margin-top: 5px;">PostgreSQL</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="img/html_40x40.png" alt="HTML" width="50" height="50" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);">
+    <div style="color: #00ff00; font-size: 12px; margin-top: 5px;">HTML</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="img/css_40x40.png" alt="CSS" width="50" height="50" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);">
+    <div style="color: #00ff00; font-size: 12px; margin-top: 5px;">CSS</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="img/js_40x40.png" alt="JavaScript" width="50" height="50" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);">
+    <div style="color: #00ff00; font-size: 12px; margin-top: 5px;">JavaScript</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="img/git_40x40.png" alt="Git" width="50" height="50" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);">
+    <div style="color: #00ff00; font-size: 12px; margin-top: 5px;">Git</div>
+  </div>
+</div>
 
 </div>
 
@@ -66,19 +76,19 @@ while crafting simple frontend interfaces when needed.
 <pre style="color: #00ff00; background-color: #000000; padding: 20px; border-radius: 10px; font-family: 'Courier New', monospace;">
 ╔═════════════════════════════════════════════════════════════╗
 ║                                                             ║
-║    ████████╗███████╗ █████╗ ███╗   ███╗                    ║
-║    ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║                    ║
-║       ██║   █████╗  ███████║██╔████╔██║                    ║
-║       ██║   ██╔══╝  ██╔══██║██║╚██╔╝██║                    ║
-║       ██║   ███████╗██║  ██║██║ ╚═╝ ██║                    ║
-║       ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝                    ║
+║    ████████╗███████╗ █████╗ ███╗   ███╗                     ║
+║    ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║                     ║
+║       ██║   █████╗  ███████║██╔████╔██║                     ║
+║       ██║   ██╔══╝  ██╔══██║██║╚██╔╝██║                     ║
+║       ██║   ███████╗██║  ██║██║ ╚═╝ ██║                     ║
+║       ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝                     ║
 ║                                                             ║
-║      Working Together to Build Amazing Things! 🚀          ║
+║      Working Together to Build Amazing Things! 🚀           ║
 ║                                                             ║
-║  ┌─────────────────────────────────────────────────────┐   ║
-║  │  Python Development • Database Design • API Creation  │   ║
-║  │              • Clean Frontends                       │   ║
-║  └─────────────────────────────────────────────────────┘   ║
+║  ┌─────────────────────────────────────────────────────┐    ║
+║  │  Python Development • Database Design • API Creation│    ║
+║  │              • Clean Frontends                      │    ║
+║  └─────────────────────────────────────────────────────┘    ║
 ║                                                             ║
 ╚═════════════════════════════════════════════════════════════╝
 </pre>
