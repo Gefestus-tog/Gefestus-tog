@@ -21,7 +21,7 @@ while crafting simple frontend interfaces when needed.
 
 ---
 
-### 🛠️ Tech Stack
+
 
 <div align="center">
 
@@ -61,8 +61,6 @@ while crafting simple frontend interfaces when needed.
 
 
 ---
-
-## 👥 My Team
 
 <div align="center">
 
